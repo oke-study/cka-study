@@ -24,6 +24,8 @@ WEEK1 / 요일 / 수강인증 / {본인이름}.{jpg,png,..}
 | **주차** | **요일**   | **강의**| **수강 시작 강의**| **수강 마지막 강의** | **발표자**| **진행 현황** |**날짜**|
 | -------- | ---------- |  ------ | ------------------------------------------------------------ | ------------- | -------- | ----- | --- |
 | WEEK1    | 목요일 | [Udemy - Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/) | 섹션 1 - 1  | 섹션 5 - 24 | 이상재 | `진행 전` |  24.1.25 |
+| WEEK2    | 월요일 | [Udemy - Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/) | 섹션 5 - 25 | 섹션 7 - 14 | 김태헌 |  진행 완  |  24.1.29 |
+| WEEK2    | 목요일 | [Udemy - Kubernetes for the Absolute Beginners - Hands-on](https://www.udemy.com/course/learn-kubernetes/) | 섹션 8 - 1  | 섹션 10 - 1 | 김태헌 | `진행 전` |  24.2.1  |
 
 ### ✅ 스터디 목적
 
